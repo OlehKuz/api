@@ -1,0 +1,11 @@
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/bin/Debug/netcoreapp2.2/TradingApiLogin.deps.json
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/bin/Debug/netcoreapp2.2/TradingApiLogin.runtimeconfig.json
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/bin/Debug/netcoreapp2.2/TradingApiLogin.runtimeconfig.dev.json
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/bin/Debug/netcoreapp2.2/TradingApiLogin.dll
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/bin/Debug/netcoreapp2.2/TradingApiLogin.pdb
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/obj/Debug/netcoreapp2.2/TradingApiLogin.csproj.CoreCompileInputs.cache
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/obj/Debug/netcoreapp2.2/TradingApiLogin.AssemblyInfoInputs.cache
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/obj/Debug/netcoreapp2.2/TradingApiLogin.AssemblyInfo.cs
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/obj/Debug/netcoreapp2.2/TradingApiLogin.dll
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/obj/Debug/netcoreapp2.2/TradingApiLogin.pdb
+/Users/magnis-2/Projects/TradingApiLogin/TradingApiLogin/obj/Debug/netcoreapp2.2/TradingApiLogin.csprojAssemblyReference.cache

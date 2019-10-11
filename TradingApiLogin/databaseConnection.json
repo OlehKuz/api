@@ -1,0 +1,17 @@
+﻿{
+    "ConnectionStrings": {
+        "DefaultConnection": "DataSource=⁨Users\⁨magnis-2\⁨Downloads\⁨sqlite-tools-osx-x86-3290000\⁩Masters.db"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Warning"
+        }
+    },
+    "AllowedHosts": "*",
+
+    "publishOptions": {
+        "include": [
+            "⁩Masters.db"
+        ]
+    }
+}
